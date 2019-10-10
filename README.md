@@ -1,1 +1,1 @@
-mon site web pour le cour GIT
+mon site web pour le cours GIT
